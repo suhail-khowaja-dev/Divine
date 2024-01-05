@@ -1,0 +1,8 @@
+Sale_Transaction_user_Id,Sale_Transaction_Registered_Sale_Id,Sale_Transaction_Sale_Price,Sale_Transaction_Half_Off
+101,5,10,1
+101,21,10,0
+104,5,50,1
+110,5,60,0
+116,21,10,1
+103,21,10,1
+137,21,10,1
